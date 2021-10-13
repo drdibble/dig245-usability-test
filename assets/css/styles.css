@@ -1,2 +1,55 @@
 
 /* css */
+* {
+  font-family: Roboto, sans-serif;
+}
+
+.blue {
+  color: #123C69;
+}
+
+.text {
+  font-size: 1.3vw;
+}
+
+.title {
+  font-size: 9.5vw;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.logo {
+  width: 25vw;
+}
+
+.task {
+  border-right: 5px solid #B47EB3;
+}
+
+.task_header {
+  font-weight: bold;
+  text-align: center;
+}
+
+.task_num {
+  font-size: 2.6vw;
+}
+
+.task_info {
+  font-size: 1.72vw;
+}
+
+.img_container {
+  width: 28vw;
+}
+
+.logo_2 {
+  padding-top: 7vh;
+  padding-bottom: 11vh;
+  width: 28vw;
+}
+
+.rect_horizontal {
+  background-color: #B47EB3;
+  height: 0.5vh;
+}
