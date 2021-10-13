@@ -4,6 +4,10 @@
   font-family: Roboto, sans-serif;
 }
 
+.backdrop {
+  background-color: #EEE2DC;
+}
+
 .center {
   display: block;
   margin-left: auto;
